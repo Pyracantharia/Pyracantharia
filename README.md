@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://miro.medium.com/0*vYtskhlShM4egE9S.gif" width="400px" alt="Description du GIF" />
+
+![Tux](Tux.svg.png)
